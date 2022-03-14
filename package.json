@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/Cleover/Mp3-Tagger#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "body-parser": "^1.19.2",
+    "duckduckgo-images-api": "^1.0.5",
     "express": "^4.17.3",
-    "node-id3": "^0.2.3"
+    "node-id3": "^0.2.3",
+    "sharp": "^0.30.2"
   }
 }
